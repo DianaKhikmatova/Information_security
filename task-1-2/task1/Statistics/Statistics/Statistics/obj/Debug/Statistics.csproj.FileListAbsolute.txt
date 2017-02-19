@@ -1,0 +1,12 @@
+c:\users\dmkhi\onedrive\documents\visual studio 2015\Projects\Statistics\Statistics\bin\Debug\Statistics.exe.config
+c:\users\dmkhi\onedrive\documents\visual studio 2015\Projects\Statistics\Statistics\bin\Debug\Statistics.exe
+c:\users\dmkhi\onedrive\documents\visual studio 2015\Projects\Statistics\Statistics\bin\Debug\Statistics.pdb
+c:\users\dmkhi\onedrive\documents\visual studio 2015\Projects\Statistics\Statistics\obj\Debug\Statistics.csprojResolveAssemblyReference.cache
+c:\users\dmkhi\onedrive\documents\visual studio 2015\Projects\Statistics\Statistics\obj\Debug\Statistics.exe
+c:\users\dmkhi\onedrive\documents\visual studio 2015\Projects\Statistics\Statistics\obj\Debug\Statistics.pdb
+C:\Users\dmkhi\Desktop\Statistics\Statistics\Statistics\bin\Debug\Statistics.exe.config
+C:\Users\dmkhi\Desktop\Statistics\Statistics\Statistics\obj\Debug\Statistics.exe
+C:\Users\dmkhi\Desktop\Statistics\Statistics\Statistics\obj\Debug\Statistics.pdb
+C:\Users\dmkhi\Desktop\Statistics\Statistics\Statistics\bin\Debug\Statistics.exe
+C:\Users\dmkhi\Desktop\Statistics\Statistics\Statistics\bin\Debug\Statistics.pdb
+C:\Users\dmkhi\Desktop\Statistics\Statistics\Statistics\obj\Debug\Statistics.csprojResolveAssemblyReference.cache

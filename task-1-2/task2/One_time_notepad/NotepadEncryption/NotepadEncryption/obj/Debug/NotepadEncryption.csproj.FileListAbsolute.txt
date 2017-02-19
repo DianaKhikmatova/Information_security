@@ -1,0 +1,12 @@
+c:\users\dmkhi\onedrive\documents\visual studio 2015\Projects\NotepadEncryption\NotepadEncryption\bin\Debug\NotepadEncryption.exe.config
+c:\users\dmkhi\onedrive\documents\visual studio 2015\Projects\NotepadEncryption\NotepadEncryption\bin\Debug\NotepadEncryption.exe
+c:\users\dmkhi\onedrive\documents\visual studio 2015\Projects\NotepadEncryption\NotepadEncryption\bin\Debug\NotepadEncryption.pdb
+c:\users\dmkhi\onedrive\documents\visual studio 2015\Projects\NotepadEncryption\NotepadEncryption\obj\Debug\NotepadEncryption.csprojResolveAssemblyReference.cache
+c:\users\dmkhi\onedrive\documents\visual studio 2015\Projects\NotepadEncryption\NotepadEncryption\obj\Debug\NotepadEncryption.exe
+c:\users\dmkhi\onedrive\documents\visual studio 2015\Projects\NotepadEncryption\NotepadEncryption\obj\Debug\NotepadEncryption.pdb
+C:\Users\dmkhi\Desktop\One_time_notepad\NotepadEncryption\NotepadEncryption\bin\Debug\NotepadEncryption.exe.config
+C:\Users\dmkhi\Desktop\One_time_notepad\NotepadEncryption\NotepadEncryption\obj\Debug\NotepadEncryption.exe
+C:\Users\dmkhi\Desktop\One_time_notepad\NotepadEncryption\NotepadEncryption\obj\Debug\NotepadEncryption.pdb
+C:\Users\dmkhi\Desktop\One_time_notepad\NotepadEncryption\NotepadEncryption\bin\Debug\NotepadEncryption.exe
+C:\Users\dmkhi\Desktop\One_time_notepad\NotepadEncryption\NotepadEncryption\bin\Debug\NotepadEncryption.pdb
+C:\Users\dmkhi\Desktop\One_time_notepad\NotepadEncryption\NotepadEncryption\obj\Debug\NotepadEncryption.csprojResolveAssemblyReference.cache

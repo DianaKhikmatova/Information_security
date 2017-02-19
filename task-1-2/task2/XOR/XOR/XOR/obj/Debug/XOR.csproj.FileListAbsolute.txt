@@ -1,0 +1,12 @@
+c:\users\dmkhi\onedrive\documents\visual studio 2015\Projects\XOR\XOR\bin\Debug\XOR.exe.config
+c:\users\dmkhi\onedrive\documents\visual studio 2015\Projects\XOR\XOR\bin\Debug\XOR.exe
+c:\users\dmkhi\onedrive\documents\visual studio 2015\Projects\XOR\XOR\bin\Debug\XOR.pdb
+c:\users\dmkhi\onedrive\documents\visual studio 2015\Projects\XOR\XOR\obj\Debug\XOR.csprojResolveAssemblyReference.cache
+c:\users\dmkhi\onedrive\documents\visual studio 2015\Projects\XOR\XOR\obj\Debug\XOR.exe
+c:\users\dmkhi\onedrive\documents\visual studio 2015\Projects\XOR\XOR\obj\Debug\XOR.pdb
+C:\Users\dmkhi\Desktop\XOR\XOR\XOR\bin\Debug\XOR.exe.config
+C:\Users\dmkhi\Desktop\XOR\XOR\XOR\obj\Debug\XOR.exe
+C:\Users\dmkhi\Desktop\XOR\XOR\XOR\obj\Debug\XOR.pdb
+C:\Users\dmkhi\Desktop\XOR\XOR\XOR\bin\Debug\XOR.exe
+C:\Users\dmkhi\Desktop\XOR\XOR\XOR\bin\Debug\XOR.pdb
+C:\Users\dmkhi\Desktop\XOR\XOR\XOR\obj\Debug\XOR.csprojResolveAssemblyReference.cache
